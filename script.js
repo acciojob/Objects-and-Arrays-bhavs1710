@@ -6,7 +6,7 @@ const person = {
 };
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
-let team=(players);
+let team=(players["John", "Bob", "Alice", "Poppy"]);
 
 let team1=players;
 
